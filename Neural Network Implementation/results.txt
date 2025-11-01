@@ -1,0 +1,27 @@
+OOP Manual Neural Network Training Log
+Hidden Layers: [16, 8]
+Epochs: 2000
+Learning Rate: 0.001
+Train-Test Split: 0.8
+
+Epoch 1: Train Loss=14.5377, Test Loss=10.6784, R2=-0.3036
+Epoch 100: Train Loss=3.8272, Test Loss=3.0338, R2=0.6296
+Epoch 200: Train Loss=2.8621, Test Loss=2.0705, R2=0.7472
+Epoch 300: Train Loss=2.3911, Test Loss=1.6841, R2=0.7944
+Epoch 400: Train Loss=2.0753, Test Loss=1.4490, R2=0.8231
+Epoch 500: Train Loss=1.8650, Test Loss=1.2933, R2=0.8421
+Epoch 600: Train Loss=1.6916, Test Loss=1.1708, R2=0.8571
+Epoch 700: Train Loss=1.5543, Test Loss=1.0777, R2=0.8684
+Epoch 800: Train Loss=1.4507, Test Loss=1.0028, R2=0.8776
+Epoch 900: Train Loss=1.3646, Test Loss=0.9424, R2=0.8850
+Epoch 1000: Train Loss=1.2884, Test Loss=0.8934, R2=0.8909
+Epoch 1100: Train Loss=1.2182, Test Loss=0.8528, R2=0.8959
+Epoch 1200: Train Loss=1.1565, Test Loss=0.8133, R2=0.9007
+Epoch 1300: Train Loss=1.0994, Test Loss=0.7779, R2=0.9050
+Epoch 1400: Train Loss=1.0455, Test Loss=0.7450, R2=0.9091
+Epoch 1500: Train Loss=0.9958, Test Loss=0.7152, R2=0.9127
+Epoch 1600: Train Loss=0.9509, Test Loss=0.6888, R2=0.9159
+Epoch 1700: Train Loss=0.9087, Test Loss=0.6650, R2=0.9188
+Epoch 1800: Train Loss=0.8703, Test Loss=0.6437, R2=0.9214
+Epoch 1900: Train Loss=0.8359, Test Loss=0.6245, R2=0.9238
+Epoch 2000: Train Loss=0.8032, Test Loss=0.6075, R2=0.9258
